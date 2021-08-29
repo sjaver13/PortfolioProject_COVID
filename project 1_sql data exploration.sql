@@ -1,3 +1,6 @@
+-- following AlexTheAnalyst https://www.youtube.com/watch?v=qfyynHBFOsM
+-- this is done on MySQL vs AlexTheAnalyst uses MS SQL Server so there are some variations in the syntax
+
 -- ensure that you start your database
 USE portfolio_project_covid;
 
